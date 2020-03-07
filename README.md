@@ -67,3 +67,9 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 # AskQuestion
+
+<div align="center">
+        <img width="45%" src="screenshot/1.png" alt="Home screen" title="Home screen"</img>
+        <img height="0" width="8px">
+        <img width="45%" src="screenshot/2.png" alt="Answer screen" title="Answer screen"></img>
+</div>
